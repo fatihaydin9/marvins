@@ -1,4 +1,4 @@
-# Marvins Code Quality Analyzer Documentation
+# Marvins Code Quality Analyzer
 
 ## Introduction
 
@@ -186,6 +186,7 @@ For further information or assistance, simply run:
 marvins help
 ```
 
-*Note: The name "Marvins" is inspired by the movie [*Pulp Fiction*](https://en.wikipedia.org/wiki/Pulp_Fiction). ```Oh man, I shot Marvin in the face```*
-
 Enjoy using Marvins to keep your code clean, maintainable, and of high quality!
+
+*Note: The name is inspired by the movie [*Pulp Fiction*](https://en.wikipedia.org/wiki/Pulp_Fiction).* 
+```oh man, i shot marvin in the face. marvin's face```
