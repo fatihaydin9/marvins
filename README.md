@@ -188,6 +188,6 @@ marvins help
 
 Enjoy using Marvins to keep your code clean, maintainable, and of high quality!
 
-*Note: The name is inspired by the movie [*Pulp Fiction*](https://en.wikipedia.org/wiki/Pulp_Fiction).* 
+*Note: As a Quentin Tarantino fan, he name is inspired by the movie [*Pulp Fiction*](https://en.wikipedia.org/wiki/Pulp_Fiction).* 
 
 ```oh man, i shot marvin in the face. marvin's face```
