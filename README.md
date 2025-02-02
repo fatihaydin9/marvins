@@ -98,7 +98,7 @@ Marvins uses a `config.json` file located in the current working directory to st
 ```
 
 ### Installiation
-You can install globally Marvins by using npm commands: 
+You can install globally Marvins by using npm package manager: 
 
 ```
 npm i -g marvins
