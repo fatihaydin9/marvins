@@ -1,6 +1,6 @@
 {
   "name": "marvins",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Analyzes TypeScript files for Cyclomatic Complexity, Halstead Volume, LOC and Maintainability Index",
   "main": "lib/analyzer.js",
   "bin": {
