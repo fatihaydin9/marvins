@@ -1,0 +1,25 @@
+{
+  "name": "marvins",
+  "version": "1.0.0",
+  "description": "Analyzes TypeScript files for Cyclomatic Complexity, Halstead Volume, LOC and Maintainability Index",
+  "main": "lib/analyzer.js",
+  "bin": {
+    "marvins": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "metrics",
+    "cyclomatic complexity",
+    "maintainability index",
+    "halstead",
+    "typescript",
+    "cli"
+  ],
+  "author": "Fatih Aydin",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.0"
+  }
+}

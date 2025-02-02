@@ -1,0 +1,15 @@
+{
+  "cyclomatic": {
+    "medium": 6,
+    "high": 10
+  },
+  "maintainabilityIndex": {
+    "low": 40,
+    "medium": 60
+  },
+  "loc": {
+    "medium": 20,
+    "high": 40
+  },
+  "commentDensityMultiplier": 5
+}
