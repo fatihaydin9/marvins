@@ -188,4 +188,4 @@ marvins help
 
 Enjoy using Marvins to keep your code clean, maintainable, and of high quality!
 
-*Note: As a Quentin Tarantino fan, he name is inspired by the movie [*Pulp Fiction*](https://en.wikipedia.org/wiki/Pulp_Fiction).* 
+*Note: As a Quentin Tarantino fan, the name is inspired by the movie [*Pulp Fiction*](https://en.wikipedia.org/wiki/Pulp_Fiction).* 
