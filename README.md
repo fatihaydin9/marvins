@@ -1,4 +1,4 @@
-# Marvins Code Quality Analyzer
+# Marvins Code Quality Analyzer Documentation
 
 ## Introduction
 
@@ -29,9 +29,9 @@ The tool leverages the TypeScript compiler API to generate an **Abstract Syntax 
 
 - **Calculation:**  
   The volume is calculated using the formula:  
-  \[
+  $$
   \text{Volume} = (\text{Total Operators} + \text{Total Operands}) \times \log_2(\text{Vocabulary})
-  \]  
+  $$
   where **Vocabulary** is the sum of unique operators and operands.
 
 ### Lines of Code (LOC)
@@ -46,15 +46,15 @@ The tool leverages the TypeScript compiler API to generate an **Abstract Syntax 
 
 - **Calculation:**  
   Marvins uses the following formula:  
-  \[
+  $$
   \text{MI} = \left(171 - 5.2 \times \ln(V) - 0.23 \times \text{CC} - 16.2 \times \ln(\text{LOC})\right) \times \frac{100}{171} + \text{Bonus}
-  \]
+  $$
   
   - **Bonus:**  
     The bonus is computed as:  
-    \[
+    $$
     \text{Bonus} = \text{commentDensityMultiplier} \times \sin\left(\sqrt{2.4 \times \text{Comment Density}}\right)
-    \]
+    $$
   
   - **Comment Density Multiplier:**  
     This value is configurable and adjusts the contribution of the comment density to the final MI.
@@ -66,9 +66,9 @@ The tool leverages the TypeScript compiler API to generate an **Abstract Syntax 
 
 - **Calculation:**  
   It is computed as:  
-  \[
+  $$
   \text{Comment Density} = \frac{\text{Number of Comment Lines}}{\text{Total Number of Lines}}
-  \]
+  $$
 
 ## Abstract Syntax Tree (AST)
 
